@@ -1,0 +1,190 @@
+{
+  "routes": [
+    {
+      "code": "RT01",
+      "path": "/tong-quan",
+      "title": "Tổng quan",
+      "preview": "Trang báo cáo tổng hợp",
+      "icon": "dashboard",
+      "status": 1
+    },
+    {
+      "code": "RT02",
+      "path": "/san-pham",
+      "title": "Sản phẩm",
+      "preview": "Quản lý sản phẩm",
+      "icon": "list",
+      "status": 1
+    },
+    {
+      "code": "RT03",
+      "path": "/loai-san-pham",
+      "title": "Loại sản phẩm",
+      "preview": "Quản lý loại sản phẩm",
+      "icon": "category",
+      "status": 1
+    },
+    {
+      "code": "RT03",
+      "path": "/nhan-vien",
+      "title": "Nhân viên",
+      "preview": "Quản lý nhân viên",
+      "icon": "supervisor_account",
+      "status": 1
+    },
+    {
+      "code": "RT01",
+      "path": "/phan-quyen",
+      "title": "Phân quyền",
+      "preview": "Trang báo cáo tổng hợp",
+      "icon": "admin_panel_settings",
+      "status": 1
+    },
+    {
+      "code": "RT01",
+      "path": "/trang-trai",
+      "title": "Trang trại",
+      "preview": "Trang báo cáo tổng hợp",
+      "icon": "scatter_plot",
+      "status": 1
+    },
+    {
+      "code": "RT01",
+      "path": "/ke-hoach",
+      "title": "Kế hoạch",
+      "preview": "Trang báo cáo tổng hợp",
+      "icon": "bar_chart",
+      "status": 1
+    },
+    {
+      "code": "RT01",
+      "path": "/khach-hang",
+      "title": "Khách hàng",
+      "preview": "Trang báo cáo tổng hợp",
+      "icon": "support_agent",
+      "status": 1
+    },
+    {
+      "code": "RT01",
+      "path": "/tin-nhan",
+      "title": "Tin nhắn/ Thông báo",
+      "preview": "Trang báo cáo tổng hợp",
+      "icon": "mark_email_unread",
+      "status": 1
+    },
+    {
+      "code": "RT01",
+      "path": "/don-vi-van-chuyen",
+      "title": "Đơn vị vận chuyển",
+      "preview": "Trang báo cáo tổng hợp",
+      "icon": "local_shipping",
+      "status": 1
+    }
+  ],
+  "products": [
+    {
+      "productId": "CF01",
+      "productName": "Cà phê đen",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": 1,
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    },
+    {
+      "productId": "CF02",
+      "productName": "Cà phê sữa",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": "Trang báo cáo tổng hợp",
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    },
+    {
+      "productId": "CF01",
+      "productName": "Cà phê đen",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": "Trang báo cáo tổng hợp",
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    },
+    {
+      "productId": "CF01",
+      "productName": "Cà phê đen",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": "Trang báo cáo tổng hợp",
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    },
+    {
+      "productId": "CF01",
+      "productName": "Cà phê đen",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": "Trang báo cáo tổng hợp",
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    },
+    {
+      "productId": "CF01",
+      "productName": "Cà phê đen",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": "Trang báo cáo tổng hợp",
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    },
+    {
+      "productId": "CF01",
+      "productName": "Cà phê đen",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": "Trang báo cáo tổng hợp",
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    },
+    {
+      "productId": "CF01",
+      "productName": "Cà phê đen",
+      "price": 20000,
+      "productDetail": "Tổng quan",
+      "categoryId": "CF",
+      "categoryName": "Cà phê",
+      "status": "Trang báo cáo tổng hợp",
+      "image": [],
+      "updatedAt": "11:22:33 11/11/2020",
+      "updatedByUserId": "Nguyễn Văn A",
+      "updatedByUsername": "Nguyễn Văn A"
+    }
+  ]
+}
