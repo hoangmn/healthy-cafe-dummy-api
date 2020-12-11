@@ -10,7 +10,7 @@
     },
     {
       "code": "RT02",
-      "path": "/san-pham",
+      "path": "/san-pham/",
       "title": "Sản phẩm",
       "preview": "Quản lý sản phẩm",
       "icon": "list",
@@ -185,6 +185,28 @@
       "updatedAt": "11:22:33 11/11/2020",
       "updatedByUserId": "Nguyễn Văn A",
       "updatedByUsername": "Nguyễn Văn A"
+    }
+  ],
+  "users": [
+    {
+      "username": "username01",
+      "fullName": "Nguyễn Văn A"
+    },
+    {
+      "username": "username01",
+      "fullName": "Nguyễn Văn A"
+    },
+    {
+      "username": "username01",
+      "fullName": "Nguyễn Văn A"
+    },
+    {
+      "username": "username01",
+      "fullName": "Nguyễn Văn A"
+    },
+    {
+      "username": "username01",
+      "fullName": "Nguyễn Văn A"
     }
   ]
 }
